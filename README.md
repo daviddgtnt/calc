@@ -1,2 +1,3 @@
-# calc
-DGTNT Calc | Calculator for Windows Command Prompt
+# DGTNT Calc
+## for Windows Command Prompt
+<br />
