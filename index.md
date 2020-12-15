@@ -5,7 +5,7 @@
 Welcome to the website for David Calc.
 
 ### Downloads
-[Windows Command Prompt](https://github.com/daviddgtnt/calc/releases/download/1.0/calc.exe)
+[Windows Command Prompt](https://github.com/daviddgtnt/calc/releases/download/1.0/calc.exe)  
 [Docker](https://hub.docker.com/r/dugo3number2/calc)
 
 ### Features planned
