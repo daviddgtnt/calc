@@ -1,3 +1,4 @@
 # DGTNT Calc
-## for Windows Command Prompt
-<br />
+## for Windows Command Prompt and Docker
+https://hub.docker.com/r/dugo3number2/calc
+`docker pull dugo3number2/calc`
