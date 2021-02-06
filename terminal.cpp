@@ -30,7 +30,6 @@ int main()
         cin >> num2;
         cout << endl;
         cout << num1 << " + " << num2 << " = " << num1+num2 << endl;
-        cout << "Press any key to exit";
     }
     if(oper == 2) {
         cout << "What is your minuend? ";
@@ -40,7 +39,6 @@ int main()
         cin >> num2;
         cout << endl;
         cout << num1 << " - " << num2 << " = " << num1-num2 << endl;
-        cout << "Press any key to exit";
     }
     if(oper == 3) {
         cout << "What is your first number? ";
@@ -50,7 +48,6 @@ int main()
         cin >> num2;
         cout << endl;
         cout << num1 << " x " << num2 << " = " << num1*num2 << endl;
-        cout << "Press any key to exit";
     }
     if(oper == 4) {
         cout << "What is your dividend? ";
@@ -60,7 +57,6 @@ int main()
         cin >> num2;
         cout << endl;
         cout << num1 << " / " << num2 << " = " << num1/num2 << endl;
-        cout << "Press any key to exit";
     }
     return 0;
 }
