@@ -4,7 +4,7 @@
 using namespace std;
 
 string version = "2.0";
-bool inDev = true;
+bool inDev = false;
 
 int main() {
     cout << "David Calc" << endl;
