@@ -1,6 +1,6 @@
-run:
-	g++ -o calc main.cpp
-	calc.exe
-
 build:
 	g++ -o calc main.cpp
+run: build
+	calc.exe
+clean:
+	del calc.exe
