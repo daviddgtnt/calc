@@ -15,7 +15,7 @@ Repl.it: https://repl.it/@DavidDGTNT/calc
 #### Without make or building desktop version
 `g++ -o calc.exe <main.cpp / windows-desktop.cpp>`
 ### Visual Studio (all modern versions)
-#### CLI
-`cl main.cpp`
+#### CLI or building desktop version
+`cl <main.cpp / windows-desktop.cpp>`
 #### IDE
 Open up the IDE and open the solution file. You can build it as you would normally from there.
