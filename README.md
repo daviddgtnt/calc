@@ -11,7 +11,7 @@ Repl.it: https://repl.it/@DavidDGTNT/calc
 `g++ -o calc main.cpp`
 ### MinGW
 #### With included make
-`make -f Makefile.win`
+`mingw32-make -f Makefile.win`
 #### Without make or building desktop version
 `g++ -o calc.exe <main.cpp / windows-desktop.cpp>`
 ### Visual Studio (all modern versions)
