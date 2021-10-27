@@ -1,6 +1,6 @@
 FROM debian:11
 WORKDIR /calc
-RUN apt update && apt install g++ make
+RUN apt-get update && apt-get install -y g++ make
 COPY main.cpp .
 COPY Makefile .
 RUN make
