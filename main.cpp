@@ -49,7 +49,7 @@ int main() {
         cout << "Factor 2:" << endl;
         float num2;
         cin >> num2;
-        float result = num1 + num2;
+        float result = num1 * num2;
         cout << "Product: " << result << endl;
     } else if (op == "4") {
         cout << "/" << endl;
